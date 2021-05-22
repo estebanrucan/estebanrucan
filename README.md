@@ -6,7 +6,6 @@
 - 🐈 Tengo una gata.
 
 Algunos de mis desarrollos:
-- 🌐 [Sitio web personal](https://estebanrucan.github.io/)
 - 🦠 [Covid Interactive Exploration](https://estebanr.shinyapps.io/covid-interactive-exploration/)
 - 📖 [Libro de apuntes personales](https://estebanrucan.github.io/personal-book/)
 - 🏥 [Reporte de las comunas chilenas con mayor tasa de defunciones en el 2017](https://estebanrucan.github.io/reporte-comunas-tasa-defuncion-alta_2017/)
