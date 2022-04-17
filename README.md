@@ -1,7 +1,7 @@
 ¡Hola! Gracias por visitar mi perfil de ✨ _GitHub_ ✨.
 
 - 📈 Actualmente soy estudiante de Estadística.
-- 💻 Python en mi tiempo libre.
+- 💻 Estudio Python en mi tiempo libre.
 - 📸 También aprendí algo de fotografía.
 - 🐈 Tengo dos gatos.
 
