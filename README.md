@@ -1,7 +1,6 @@
 ¡Hola! Gracias por visitar mi perfil de ✨ _GitHub_ ✨.
 
 - 📈 Actualmente soy estudiante de Magíster (Máster) en Ciencias de Datos.
-- 💻 Estudio Python en mi tiempo libre.
 - 📸 También aprendí algo de fotografía.
 - 🐈 Tengo dos gatos.
 
